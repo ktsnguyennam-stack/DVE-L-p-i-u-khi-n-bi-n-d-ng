@@ -1,0 +1,5 @@
+{
+  "name": "DVE : Profile Control Layer",
+  "description": "A physics-based simulation dashboard for dynamic viability environments with profile-based control policies.",
+  "requestFramePermissions": []
+}
